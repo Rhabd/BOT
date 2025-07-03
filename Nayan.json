@@ -9,16 +9,16 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "shadhin-bot",
+  "BOTNAME": "robbani-bot",
   "PREFIX": "/",
   "react": "🗿",
   "OPERATOR": [
     "",
-    "100051192304966"
+    "100069863595992"
   ],
   "ADMINBOT": [
     "100051192304966",
-    "100002642883584"
+    "100069863595992"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
